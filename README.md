@@ -5,3 +5,6 @@ Buscar bibliografía de un tema de interés propio en la Página Web de PubMed, 
 Cargue su cuaderno de Jupyter en GitHub, asegurandose de lo siguiente:
 
 En el documento se puede ver con claridad el Mapa de Ciencia de su tema de interés. la figura tiene etiquetas adecuadas en los ejes de la visualización. se tiene al menos tres controles de la versión (3 commit con mensajes adecuados sobre la versión)
+
+Instruciones del deber 
+
