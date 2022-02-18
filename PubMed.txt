@@ -1,0 +1,646 @@
+PMID- 33534660
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210928
+LR  - 20210928
+IS  - 1208-6002 (Electronic)
+IS  - 0829-8211 (Linking)
+VI  - 99
+IP  - 4
+DP  - 2021 Aug
+TI  - The endless battle between phages and CRISPR-Cas systems in Streptococcus 
+      thermophilus.
+PG  - 397-402
+LID - 10.1139/bcb-2020-0593 [doi]
+AB  - This review describes the contribution of basic research on phage-bacteria 
+      interactions to the understanding of CRISPR-Cas systems and their various 
+      applications. It focuses on the natural function of CRISPR-Cas systems as adaptive 
+      defense mechanisms against mobile genetic elements such as bacteriophage genomes and 
+      plasmids. Some of the advances in the characterization of the type II-A CRISPR-Cas 
+      system of Streptococcus thermophilus and Streptococcus pyogenes led to the 
+      development of the CRISPR-Cas9 genome-editing technology. We mostly discuss the 3 
+      stages of the CRISPR-Cas system in S. thermophilus, namely the adaptation stage, 
+      which is unique to this resistance mechanism; the CRISPR RNA biogenesis; and the 
+      DNA-cutting activity in the interference stage to protect bacteria against phages. 
+      Finally, we look into applications of CRISPR-Cas in microbiology, including 
+      overcoming limitations in genome editing.
+FAU - Philippe, Cécile
+AU  - Philippe C
+AD  - Département de biochimie, de microbiologie, et de bio-informatique, Faculté des 
+      sciences et de génie, Université Laval, Québec, QC G1V 0A6, Canada.
+AD  - Groupe de recherche en écologie buccale, Faculté de médecine dentaire, Université 
+      Laval, Québec, QC G1V 0A6, Canada.
+FAU - Moineau, Sylvain
+AU  - Moineau S
+AD  - Département de biochimie, de microbiologie, et de bio-informatique, Faculté des 
+      sciences et de génie, Université Laval, Québec, QC G1V 0A6, Canada.
+AD  - Groupe de recherche en écologie buccale, Faculté de médecine dentaire, Université 
+      Laval, Québec, QC G1V 0A6, Canada.
+AD  - Félix d'Hérelle Reference Center for Bacterial Viruses, Université Laval, Québec, QC 
+      G1V 0A6, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210203
+PL  - Canada
+TA  - Biochem Cell Biol
+JT  - Biochemistry and cell biology = Biochimie et biologie cellulaire
+JID - 8606068
+SB  - IM
+MH  - *Adaptation, Physiological
+MH  - Bacteriophages/*physiology
+MH  - *CRISPR-Cas Systems
+MH  - *Gene Editing
+MH  - Streptococcus thermophilus/*physiology
+OTO - NOTNLM
+OT  - *CRISPR–Cas
+OT  - *genome editing
+OT  - *interactions phage-hôte
+OT  - *phage–host interactions
+OT  - *édition du génome
+EDAT- 2021/02/04 06:00
+MHDA- 2021/09/29 06:00
+CRDT- 2021/02/03 17:10
+PHST- 2021/02/04 06:00 [pubmed]
+PHST- 2021/09/29 06:00 [medline]
+PHST- 2021/02/03 17:10 [entrez]
+AID - 10.1139/bcb-2020-0593 [doi]
+PST - ppublish
+SO  - Biochem Cell Biol. 2021 Aug;99(4):397-402. doi: 10.1139/bcb-2020-0593. Epub 2021 Feb 
+      3.
+
+PMID- 32786349
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210810
+LR  - 20210810
+IS  - 2161-5063 (Electronic)
+IS  - 2161-5063 (Linking)
+VI  - 9
+IP  - 9
+DP  - 2020 Sep 18
+TI  - Developing Methods to Circumvent the Conundrum of Chromosomal Rearrangements 
+      Occurring in Multiplex Gene Edition.
+PG  - 2562-2575
+LID - 10.1021/acssynbio.0c00325 [doi]
+AB  - CRISPR/Cas9 is a powerful tool to edit the genome of the yeast Yarrowia lipolytica. 
+      Here, we design a simple and robust method to knockout multiple gene families based 
+      on the construction of plasmids enabling the simultaneous expression of several 
+      sgRNAs. We exemplify the potency of this approach by targeting the 
+      well-characterized acyl-CoA oxidase family (POX) and the uncharacterized SPS19 
+      family. We establish a correlation between the high lethality observed upon editing 
+      multiple loci and chromosomal translocations resulting from the simultaneous 
+      generation of several double-strand breaks (DSBs) and develop multiplex gene editing 
+      strategies. Using homologous directed recombination to reduce chromosomal 
+      translocations, we demonstrated that simultaneous editing of four genes can be 
+      achieved and constructed a strain carrying a sextuple deletion of POX genes. We 
+      explore an "excision approach" by simultaneously performing two DSBs in genes and 
+      reached 73 to 100% editing efficiency in double disruptions and 41.7% in a triple 
+      disruption. This work led to identifying SPS193 as a gene encoding a 2-4 dienoyl-CoA 
+      reductase, demonstrating the potential of this method to accelerate knowledge on 
+      gene function in expanded gene families.
+FAU - Borsenberger, Vinciane
+AU  - Borsenberger V
+AUID- ORCID: 0000-0002-6982-4919
+AD  - Toulouse Biotechnology Institute, Université de Toulouse, INSA, INRAE, CNRS, 
+      Toulouse, 31077, France.
+FAU - Croux, Christian
+AU  - Croux C
+AD  - Toulouse Biotechnology Institute, Université de Toulouse, INSA, INRAE, CNRS, 
+      Toulouse, 31077, France.
+FAU - Daboussi, Fayza
+AU  - Daboussi F
+AD  - Toulouse Biotechnology Institute, Université de Toulouse, INSA, INRAE, CNRS, 
+      Toulouse, 31077, France.
+AD  - Toulouse White Biotechnology, Ramonville-Saint-Agne, 31520, France.
+FAU - Neuvéglise, Cécile
+AU  - Neuvéglise C
+AD  - AgroParisTech, Micalis Institute, Université Paris-Saclay, INRAE, Paris, 78350, 
+      France.
+FAU - Bordes, Florence
+AU  - Bordes F
+AUID- ORCID: 0000-0002-6078-8616
+AD  - Toulouse Biotechnology Institute, Université de Toulouse, INSA, INRAE, CNRS, 
+      Toulouse, 31077, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200825
+PL  - United States
+TA  - ACS Synth Biol
+JT  - ACS synthetic biology
+JID - 101575075
+RN  - 0 (RNA, Guide)
+RN  - EC 1.3.3.6 (Acyl-CoA Oxidase)
+SB  - IM
+MH  - Acyl-CoA Oxidase/genetics
+MH  - CRISPR-Cas Systems/genetics
+MH  - DNA Breaks, Double-Stranded
+MH  - Gene Editing/*methods
+MH  - Plasmids/genetics/metabolism
+MH  - RNA, Guide/metabolism
+MH  - Yarrowia/enzymology
+OTO - NOTNLM
+OT  - *CRISPR/Cas9
+OT  - *Yarrowia lipolytica
+OT  - *chromosomal rearrangements
+OT  - *multiplex gene editing
+EDAT- 2020/08/14 06:00
+MHDA- 2021/08/11 06:00
+CRDT- 2020/08/14 06:00
+PHST- 2020/08/14 06:00 [pubmed]
+PHST- 2021/08/11 06:00 [medline]
+PHST- 2020/08/14 06:00 [entrez]
+AID - 10.1021/acssynbio.0c00325 [doi]
+PST - ppublish
+SO  - ACS Synth Biol. 2020 Sep 18;9(9):2562-2575. doi: 10.1021/acssynbio.0c00325. Epub 
+      2020 Aug 25.
+
+PMID- 29619166
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200929
+IS  - 2041-6520 (Print)
+IS  - 2041-6539 (Electronic)
+IS  - 2041-6520 (Linking)
+VI  - 8
+IP  - 12
+DP  - 2017 Dec 1
+TI  - Peptide/Cas9 nanostructures for ribonucleoprotein cell membrane transport and gene 
+      edition.
+PG  - 7923-7931
+LID - 10.1039/c7sc03918b [doi]
+AB  - The discovery of RNA guided endonucleases has emerged as one of the most important 
+      tools for gene edition and biotechnology. The selectivity and simplicity of the 
+      CRISPR/Cas9 strategy allows the straightforward targeting and editing of particular 
+      loci in the cell genome without the requirement of protein engineering. However, the 
+      transfection of plasmids encoding the Cas9 and the guide RNA could lead to undesired 
+      permanent recombination and immunogenic responses. Therefore, the direct delivery of 
+      transient Cas9 ribonucleoprotein constitutes an advantageous strategy for gene 
+      edition and other potential therapeutic applications of the CRISPR/Cas9 system. The 
+      covalent fusion of Cas9 with penetrating peptides requires multiple incubation steps 
+      with the target cells to achieve efficient levels of gene edition. These and other 
+      recent reports suggested that covalent conjugation of the anionic Cas9 
+      ribonucleoprotein to cationic peptides would be associated with a hindered nuclease 
+      activity due to undesired electrostatic interactions. We here report a 
+      supramolecular strategy for the direct delivery of Cas9 by an amphiphilic 
+      penetrating peptide that was prepared by a hydrazone bond formation between a 
+      cationic peptide scaffold and a hydrophobic aldehyde tail. The peptide/protein 
+      non-covalent nanoparticles performed with similar efficiency and less toxicity than 
+      one of the best methods described to date. To the best of our knowledge this report 
+      constitutes the first supramolecular strategy for the direct delivery of Cas9 using 
+      a penetrating peptide vehicle. The results reported here confirmed that peptide 
+      amphiphilic vectors can deliver Cas9 in a single incubation step, with good 
+      efficiency and low toxicity. This work will encourage the search and development of 
+      conceptually new synthetic systems for transitory endonucleases direct delivery.
+FAU - Lostalé-Seijo, Irene
+AU  - Lostalé-Seijo I
+AUID- ORCID: 0000-0003-0854-4160
+AD  - Centro Singular de Investigación en Química Biolóxica e Materiais Moleculares 
+      (CIQUS) , Departamento de Química Orgánica , Universidade de Santiago de Compostela 
+      , 15782 Santiago de Compostela , Spain . Email: javier.montenegro@usc.es.
+FAU - Louzao, Iria
+AU  - Louzao I
+AUID- ORCID: 0000-0003-0848-1040
+AD  - Centro Singular de Investigación en Química Biolóxica e Materiais Moleculares 
+      (CIQUS) , Departamento de Química Orgánica , Universidade de Santiago de Compostela 
+      , 15782 Santiago de Compostela , Spain . Email: javier.montenegro@usc.es.
+FAU - Juanes, Marisa
+AU  - Juanes M
+AUID- ORCID: 0000-0001-8037-1116
+AD  - Centro Singular de Investigación en Química Biolóxica e Materiais Moleculares 
+      (CIQUS) , Departamento de Química Orgánica , Universidade de Santiago de Compostela 
+      , 15782 Santiago de Compostela , Spain . Email: javier.montenegro@usc.es.
+FAU - Montenegro, Javier
+AU  - Montenegro J
+AUID- ORCID: 0000-0001-6503-2095
+AD  - Centro Singular de Investigación en Química Biolóxica e Materiais Moleculares 
+      (CIQUS) , Departamento de Química Orgánica , Universidade de Santiago de Compostela 
+      , 15782 Santiago de Compostela , Spain . Email: javier.montenegro@usc.es.
+LA  - eng
+PT  - Journal Article
+DEP - 20171018
+TA  - Chem Sci
+JT  - Chemical science
+JID - 101545951
+PMC - PMC5863697
+EDAT- 2018/04/06 06:00
+MHDA- 2018/04/06 06:01
+CRDT- 2018/04/06 06:00
+PHST- 2017/09/07 00:00 [received]
+PHST- 2017/10/18 00:00 [accepted]
+PHST- 2018/04/06 06:00 [entrez]
+PHST- 2018/04/06 06:00 [pubmed]
+PHST- 2018/04/06 06:01 [medline]
+AID - c7sc03918b [pii]
+AID - 10.1039/c7sc03918b [doi]
+PST - ppublish
+SO  - Chem Sci. 2017 Dec 1;8(12):7923-7931. doi: 10.1039/c7sc03918b. Epub 2017 Oct 18.
+
+PMID- 32973188
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201210
+LR  - 20210924
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2020 Sep 24
+TI  - Generation of myostatin edited horse embryos using CRISPR/Cas9 technology and 
+      somatic cell nuclear transfer.
+PG  - 15587
+LID - 10.1038/s41598-020-72040-4 [doi]
+LID - 15587
+AB  - The application of new technologies for gene editing in horses may allow the 
+      generation of improved sportive individuals. Here, we aimed to knock out the 
+      myostatin gene (MSTN), a negative regulator of muscle mass development, using 
+      CRISPR/Cas9 and to generate edited embryos for the first time in horses. We 
+      nucleofected horse fetal fibroblasts with 1, 2 or 5 µg of 2 different gRNA/Cas9 
+      plasmids targeting the first exon of MSTN. We observed that increasing plasmid 
+      concentrations improved mutation efficiency. The average efficiency was 63.6% for 
+      gRNA1 (14/22 edited clonal cell lines) and 96.2% for gRNA2 (25/26 edited clonal cell 
+      lines). Three clonal cell lines were chosen for embryo generation by somatic cell 
+      nuclear transfer: one with a monoallelic edition, one with biallelic heterozygous 
+      editions and one with a biallelic homozygous edition, which rendered edited 
+      blastocysts in each case. Both MSTN editions and off-targets were analyzed in the 
+      embryos. In conclusion, CRISPR/Cas9 proved an efficient method to edit the horse 
+      genome in a dose dependent manner with high specificity. Adapting this technology 
+      sport advantageous alleles could be generated, and a precision breeding program 
+      could be developed.
+FAU - Moro, Lucia Natalia
+AU  - Moro LN
+AD  - LIAN-CONICET, Fundación FLENI, Buenos Aires, Argentina. lmoro@fleni.org.ar.
+AD  - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Buenos Aires, 
+      Argentina. lmoro@fleni.org.ar.
+FAU - Viale, Diego Luis
+AU  - Viale DL
+AD  - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Buenos Aires, 
+      Argentina.
+AD  - Laboratorio de Neurología y Citogenética Molecular, CESyMA, Buenos Aires, Argentina.
+FAU - Bastón, Juan Ignacio
+AU  - Bastón JI
+AD  - KHEIRON BIOTECH S.A, Pilar, Buenos Aires, Argentina.
+FAU - Arnold, Victoria
+AU  - Arnold V
+AD  - KHEIRON BIOTECH S.A, Pilar, Buenos Aires, Argentina.
+FAU - Suvá, Mariana
+AU  - Suvá M
+AD  - KHEIRON BIOTECH S.A, Pilar, Buenos Aires, Argentina.
+FAU - Wiedenmann, Elisabet
+AU  - Wiedenmann E
+AD  - KHEIRON BIOTECH S.A, Pilar, Buenos Aires, Argentina.
+FAU - Olguín, Martín
+AU  - Olguín M
+AD  - KHEIRON BIOTECH S.A, Pilar, Buenos Aires, Argentina.
+FAU - Miriuka, Santiago
+AU  - Miriuka S
+AD  - LIAN-CONICET, Fundación FLENI, Buenos Aires, Argentina.
+AD  - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Buenos Aires, 
+      Argentina.
+FAU - Vichera, Gabriel
+AU  - Vichera G
+AD  - KHEIRON BIOTECH S.A, Pilar, Buenos Aires, Argentina. vichera@kheiron-biotech.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20200924
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Myostatin)
+SB  - IM
+MH  - Animals
+MH  - Animals, Genetically Modified/*genetics
+MH  - Base Sequence
+MH  - *CRISPR-Cas Systems
+MH  - Embryo, Mammalian/cytology/*metabolism
+MH  - Female
+MH  - Fibroblasts/cytology/metabolism
+MH  - *Gene Editing
+MH  - Gene Knockout Techniques/*veterinary
+MH  - Horses
+MH  - Mutation
+MH  - Myostatin/antagonists & inhibitors/*genetics
+MH  - Nuclear Transfer Techniques/*veterinary
+MH  - Sequence Homology
+PMC - PMC7518276
+COIS- The authors declare no competing interests.
+EDAT- 2020/09/26 06:00
+MHDA- 2020/12/15 06:00
+CRDT- 2020/09/25 05:55
+PHST- 2020/04/03 00:00 [received]
+PHST- 2020/08/25 00:00 [accepted]
+PHST- 2020/09/25 05:55 [entrez]
+PHST- 2020/09/26 06:00 [pubmed]
+PHST- 2020/12/15 06:00 [medline]
+AID - 10.1038/s41598-020-72040-4 [pii]
+AID - 72040 [pii]
+AID - 10.1038/s41598-020-72040-4 [doi]
+PST - epublish
+SO  - Sci Rep. 2020 Sep 24;10(1):15587. doi: 10.1038/s41598-020-72040-4.
+
+PMID- 31909863
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210602
+LR  - 20210602
+IS  - 1462-5822 (Electronic)
+IS  - 1462-5814 (Linking)
+VI  - 22
+IP  - 5
+DP  - 2020 May
+TI  - Universal highly efficient conditional knockout system in Leishmania, with a focus 
+      on untranscribed region preservation.
+PG  - e13159
+LID - 10.1111/cmi.13159 [doi]
+AB  - Trypanosomatids are divergent eukaryotes of high medical and economical relevance. 
+      Their biology exhibits original features that remain poorly understood; 
+      particularly, Leishmania is known for its high degree of genomic plasticity that 
+      makes genomic manipulation challenging. CRISPR-Cas9 has been applied successfully to 
+      these parasites providing a robust tool to study non-essential gene functions. Here, 
+      we have developed a versatile inducible system combining Di-Cre recombinase and 
+      CRISPR-Cas9 advantages. Cas9 is used to integrate the LoxP sequences, and the 
+      Cre-recombinase catalyses the recombination between LoxP sites, thereby excising the 
+      target gene. We used a Leishmania mexicana cell line expressing Di-Cre, Cas9, and T7 
+      polymerase and then transfected donor DNAs and single guide RNAs as polymerase chain 
+      reaction (PCR) products. Because the location of LoxP sequences in the genomic DNA 
+      can interfere with the function and localisation of certain proteins of interest, we 
+      proposed to target the least transcribed regions upstream and/or downstream the gene 
+      of interest. To do so, we developed "universal" template plasmids for donor DNA 
+      cassettes with or without a tag, where LoxP sequences may be located either 
+      immediately upstream the ATG and downstream the stop codon of the gene of interest, 
+      or in the least transcribed areas of intergenic regions. Our methodology is fast, 
+      PCR-based (molecular cloning-free), highly efficient, versatile, and able to 
+      overcome the problems posed by genomic plasticity in Leishmania.
+CI  - © 2020 John Wiley & Sons Ltd.
+FAU - Yagoubat, Akila
+AU  - Yagoubat A
+AD  - MiVEGEC, University of Montpellier, CNRS, IRD, CHU, Montpellier, France.
+FAU - Crobu, Lucien
+AU  - Crobu L
+AD  - MiVEGEC, University of Montpellier, CNRS, IRD, CHU, Montpellier, France.
+FAU - Berry, Laurence
+AU  - Berry L
+AD  - Laboratory of Pathogen Host Interactions, Microscopie Electronique et Analytique, 
+      CNRS, University of Montpellier, Montpellier, France.
+FAU - Kuk, Nada
+AU  - Kuk N
+AD  - MiVEGEC, University of Montpellier, CNRS, IRD, CHU, Montpellier, France.
+FAU - Lefebvre, Michèle
+AU  - Lefebvre M
+AD  - MiVEGEC, University of Montpellier, CNRS, IRD, CHU, Montpellier, France.
+FAU - Sarrazin, Amélie
+AU  - Sarrazin A
+AD  - Montpellier RIO Imaging Facility, Montpellier BIOCAMPUS, University of Montpellier, 
+      Arnaud de Villeneuve Campus Imaging Facility-Institut de Génétique Humaine-CNRS, 
+      Montpellier, France.
+FAU - Bastien, Patrick
+AU  - Bastien P
+AD  - MiVEGEC, University of Montpellier, CNRS, IRD, CHU, Montpellier, France.
+FAU - Sterkers, Yvon
+AU  - Sterkers Y
+AUID- ORCID: 0000-0002-5623-5664
+AD  - MiVEGEC, University of Montpellier, CNRS, IRD, CHU, Montpellier, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200127
+PL  - England
+TA  - Cell Microbiol
+JT  - Cellular microbiology
+JID - 100883691
+RN  - 0 (Proto-Oncogene Proteins c-crk)
+RN  - EC 2.7.7.- (Cre recombinase)
+RN  - EC 2.7.7.- (Integrases)
+SB  - IM
+MH  - CRISPR-Cas Systems
+MH  - Cell Line
+MH  - Gene Editing
+MH  - Gene Knockout Techniques/*methods
+MH  - Integrases
+MH  - Leishmania/*genetics
+MH  - Proto-Oncogene Proteins c-crk/genetics
+MH  - Recombination, Genetic
+MH  - Transfection
+OTO - NOTNLM
+OT  - *CRISPR-Cas9
+OT  - *CreLox
+OT  - *genome edition
+OT  - *inducible knockout
+OT  - *parasite
+OT  - *trypanosomatids
+EDAT- 2020/01/08 06:00
+MHDA- 2021/06/03 06:00
+CRDT- 2020/01/08 06:00
+PHST- 2019/11/20 00:00 [received]
+PHST- 2019/12/24 00:00 [revised]
+PHST- 2019/12/27 00:00 [accepted]
+PHST- 2020/01/08 06:00 [pubmed]
+PHST- 2021/06/03 06:00 [medline]
+PHST- 2020/01/08 06:00 [entrez]
+AID - 10.1111/cmi.13159 [doi]
+PST - ppublish
+SO  - Cell Microbiol. 2020 May;22(5):e13159. doi: 10.1111/cmi.13159. Epub 2020 Jan 27.
+
+PMID- 27566851
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170508
+LR  - 20170508
+IS  - 1879-3231 (Electronic)
+IS  - 0093-691X (Linking)
+VI  - 86
+IP  - 8
+DP  - 2016 Nov
+TI  - Efficient edition of the bovine PRNP prion gene in somatic cells and IVF embryos 
+      using the CRISPR/Cas9 system.
+PG  - 1886-1896.e1
+LID - S0093-691X(16)30264-3 [pii]
+LID - 10.1016/j.theriogenology.2016.06.010 [doi]
+AB  - The recently developed engineered nucleases, such as zinc-finger nucleases, 
+      transcription activator-like effector nucleases, and clustered regularly interspaced 
+      short palindromic repeat (CRISPR)/CRISPR-associated nuclease (Cas) 9, provide new 
+      opportunities for gene editing in a straightforward manner. However, few reports are 
+      available regarding CRISPR application and efficiency in cattle. Here, the 
+      CRISPR/Cas9 system was used with the aim of inducing knockout and knock-in alleles 
+      of the bovine PRNP gene, responsible for mad cow disease, both in bovine fetal 
+      fibroblasts and in IVF embryos. Five single-guide RNAs were designed to target 
+      875 bp of PRNP exon 3, and all five were codelivered with Cas9. The feasibility of 
+      inducing homologous recombination (HR) was evaluated with a reporter vector carrying 
+      EGFP flanked by 1 kbp PRNP regions (pHRegfp). For somatic cells, plasmids coding for 
+      Cas9 and for each of the five single-guide RNAs (pCMVCas9 and pSPgRNAs) were 
+      transfected under two different conditions (1X and 2X). For IVF zygotes, cytoplasmic 
+      injection was conducted with either plasmids or mRNA. For plasmid injection groups, 
+      1 pg pCMVCas9 + 0.1 pg of each pSPgRNA (DNA2X) was used per zygote. In the case of 
+      RNA, two amounts (RNA1X and RNA2X) were compared. To assess the occurrence of HR, a 
+      group additionally cotransfected or coinjected with pHRegfp plasmid was included. 
+      Somatic cell lysates were analyzed by polymerase chain reaction and surveyor assay. 
+      In the case of embryos, the in vitro development and the genotype of blastocysts 
+      were evaluated by polymerase chain reaction and sequencing. In somatic cells, 2X 
+      transfection resulted in indels and large deletions of the targeted PRNP region. 
+      Regarding embryo injection, higher blastocyst rates were obtained for RNA injected 
+      groups (46/103 [44.6%] and 55/116 [47.4%] for RNA1X and RNA2X) than for the DNA2X 
+      group (26/140 [18.6%], P < 0.05). In 46% (26/56) of the total sequenced blastocysts, 
+      specific gene editing was detected. The total number of genetic modifications (29) 
+      was higher than the total number of gene-edited embryos, as three blastocysts from 
+      the group RNA2X reported more than one type of modification. The modifications 
+      included indels (10/56; 17.9%) and large deletions (19/56; 33.9%). Moreover, it was 
+      possible to detect HR in 1/8 (12.5%) embryos treated with RNA2X. These results 
+      report that the CRISPR/Cas9 system can be applied for site-specific edition of the 
+      bovine genome, which could have a great impact on the development of large animals 
+      resistant to important zoonotic diseases.
+CI  - Copyright © 2016 Elsevier Inc. All rights reserved.
+FAU - Bevacqua, R J
+AU  - Bevacqua RJ
+AD  - Animal Biotechnology Laboratory, INPA UBA-CONICET, Buenos Aires, Argentina.
+FAU - Fernandez-Martín, R
+AU  - Fernandez-Martín R
+AD  - Animal Biotechnology Laboratory, INPA UBA-CONICET, Buenos Aires, Argentina.
+FAU - Savy, V
+AU  - Savy V
+AD  - Animal Biotechnology Laboratory, INPA UBA-CONICET, Buenos Aires, Argentina.
+FAU - Canel, N G
+AU  - Canel NG
+AD  - Animal Biotechnology Laboratory, INPA UBA-CONICET, Buenos Aires, Argentina.
+FAU - Gismondi, M I
+AU  - Gismondi MI
+AD  - Instituto de Biotecnología, CICVyA, INTA-CONICET, Hurlingham, Argentina.
+FAU - Kues, W A
+AU  - Kues WA
+AD  - Institute of Farm Animal Genetics (FLI), Mariensee, Hannover, Germany.
+FAU - Carlson, D F
+AU  - Carlson DF
+AD  - Recombinetics Inc., St Paul, Minnesota, USA.
+FAU - Fahrenkrug, S C
+AU  - Fahrenkrug SC
+AD  - Recombinetics Inc., St Paul, Minnesota, USA.
+FAU - Niemann, H
+AU  - Niemann H
+AD  - Institute of Farm Animal Genetics (FLI), Mariensee, Hannover, Germany.
+FAU - Taboga, O A
+AU  - Taboga OA
+AD  - Instituto de Biotecnología, CICVyA, INTA-CONICET, Hurlingham, Argentina.
+FAU - Ferraris, S
+AU  - Ferraris S
+AD  - Cloning and Transgenesis Laboratory, Maimonides University, Buenos Aires, Argentina.
+FAU - Salamone, D F
+AU  - Salamone DF
+AD  - Animal Biotechnology Laboratory, INPA UBA-CONICET, Buenos Aires, Argentina. 
+      Electronic address: salamone@agro.uba.ar.
+LA  - eng
+PT  - Journal Article
+DEP - 20160615
+PL  - United States
+TA  - Theriogenology
+JT  - Theriogenology
+JID - 0421510
+RN  - 0 (Prion Proteins)
+SB  - IM
+MH  - Animals
+MH  - *CRISPR-Cas Systems
+MH  - Cattle/*embryology/genetics
+MH  - Fertilization in Vitro/*veterinary
+MH  - Fetus/cytology
+MH  - Fibroblasts/metabolism
+MH  - Gene Expression Regulation, Developmental
+MH  - Genetic Engineering/*veterinary
+MH  - Mutation
+MH  - Prion Proteins/genetics/*metabolism
+OTO - NOTNLM
+OT  - Bovine spongiform encephalopathy
+OT  - Cattle
+OT  - Engineered nuclease
+OT  - Gene targeting
+OT  - Mad cow disease
+OT  - Ruminant
+EDAT- 2016/08/28 06:00
+MHDA- 2017/05/10 06:00
+CRDT- 2016/08/28 06:00
+PHST- 2016/03/11 00:00 [received]
+PHST- 2016/05/17 00:00 [revised]
+PHST- 2016/06/05 00:00 [accepted]
+PHST- 2016/08/28 06:00 [entrez]
+PHST- 2016/08/28 06:00 [pubmed]
+PHST- 2017/05/10 06:00 [medline]
+AID - S0093-691X(16)30264-3 [pii]
+AID - 10.1016/j.theriogenology.2016.06.010 [doi]
+PST - ppublish
+SO  - Theriogenology. 2016 Nov;86(8):1886-1896.e1. doi: 
+      10.1016/j.theriogenology.2016.06.010. Epub 2016 Jun 15.
+
+PMID- 21883790
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120104
+LR  - 20181201
+IS  - 1462-2920 (Electronic)
+IS  - 1462-2912 (Linking)
+VI  - 13
+IP  - 10
+DP  - 2011 Oct
+TI  - Engineering multiple genomic deletions in Gram-negative bacteria: analysis of the 
+      multi-resistant antibiotic profile of Pseudomonas putida KT2440.
+PG  - 2702-16
+LID - 10.1111/j.1462-2920.2011.02538.x [doi]
+AB  - The genome of the soil bacterium Pseudomonas putida strain KT2440 has been erased of 
+      various determinants of resistance to antibiotics encoded in its extant chromosome. 
+      To this end, we employed a coherent genetic platform that allowed the precise 
+      deletion of multiple genomic segments in a large variety of Gram-negative bacteria 
+      including (but not limited to) P. putida. The method is based on the obligatory 
+      recombination between free-ended homologous DNA sequences that are released as 
+      linear fragments generated upon the cleavage of the chromosome with unique I-SceI 
+      sites, added to the segment of interest by the vector system. Despite the potential 
+      for a SOS response brought about by the appearance of double stranded DNA breaks 
+      during the process, fluctuation experiments revealed that the procedure did not 
+      increase mutation rates - perhaps due to the protection exerted by I-SceI bound to 
+      the otherwise naked DNA termini. With this tool in hand we made sequential deletions 
+      of genes mexC, mexE, ttgA and ampC in the genome of the target bacterium, 
+      orthologues of which are known to determine various degrees of antibiotic resistance 
+      in diverse microorganisms. Inspection of the corresponding phenotypes demonstrated 
+      that the efflux pump encoded by ttgA sufficed to endow P. putida with a high-level 
+      of tolerance to β-lactams, chloramphenicol and quinolones, but had little effect on, 
+      e.g. aminoglycosides. Analysis of the mutants revealed also a considerable diversity 
+      in the manifestation of the resistance phenotype within the population and suggested 
+      a degree of synergism between different pumps. The directed edition of the P. putida 
+      chromosome shown here not only enhances the amenability of this bacterium to deep 
+      genomic engineering, but also validates the corresponding approach for similar 
+      handlings of a large variety of Gram-negative microorganisms.
+CI  - © 2011 Society for Applied Microbiology and Blackwell Publishing Ltd.
+FAU - Martínez-García, Esteban
+AU  - Martínez-García E
+AD  - Systems Biology Program, Centro Nacional de Biotecnología-CSIC, Campus de 
+      Cantoblanco, 28049, Madrid, Spain.
+FAU - de Lorenzo, Víctor
+AU  - de Lorenzo V
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110824
+PL  - England
+TA  - Environ Microbiol
+JT  - Environmental microbiology
+JID - 100883692
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (DNA, Bacterial)
+SB  - IM
+MH  - Anti-Bacterial Agents/*pharmacology
+MH  - DNA, Bacterial/genetics
+MH  - *Drug Resistance, Bacterial
+MH  - Genome, Bacterial
+MH  - Gram-Negative Bacteria/drug effects/genetics/metabolism
+MH  - Mutation Rate
+MH  - Phenotype
+MH  - Plasmids
+MH  - Pseudomonas putida/*drug effects/*genetics/metabolism
+MH  - *Sequence Deletion
+EDAT- 2011/09/03 06:00
+MHDA- 2012/01/05 06:00
+CRDT- 2011/09/03 06:00
+PHST- 2011/09/03 06:00 [entrez]
+PHST- 2011/09/03 06:00 [pubmed]
+PHST- 2012/01/05 06:00 [medline]
+AID - 10.1111/j.1462-2920.2011.02538.x [doi]
+PST - ppublish
+SO  - Environ Microbiol. 2011 Oct;13(10):2702-16. doi: 10.1111/j.1462-2920.2011.02538.x. 
+      Epub 2011 Aug 24.
